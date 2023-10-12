@@ -34,7 +34,7 @@ const Hero = () => {
         ">discover stylish Nike arrivals, quality  confort ,
         and innovations for  your active life.
        </p>
-       <Button label="Show me" iconUrl={arrowRight}/>
+       <Button label="Shop now " iconUrl={arrowRight}/>
        <div className="
        flex justify-start items-start
        mt-20 w-full

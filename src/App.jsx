@@ -21,9 +21,9 @@ import Nav from "./components/Nav"
     <section className="padding">
       <SpecialOffers/>
     </section>
-    <section className="padding">
+   {/*  <section className="padding">
       <Reviews/>
-    </section>
+    </section> */}
     <section className = "bg-blue-50 padding">
     <Reviews/>
     </section>
