@@ -1,6 +1,7 @@
 import { useState } from 'react'
-import { Reviews,Footer,Services,SuperQuality, SpecialOffers,PopularProducts,Subscribers,Hero } from './sections';
+import { Reviews,Footer,Services,SuperQuality, SpecialOffers,PopularProducts,Subscribe ,Hero } from './sections';
 import Nav from "./components/Nav"
+
 
 
   const App = () =>(
@@ -27,8 +28,8 @@ import Nav from "./components/Nav"
     <section className = "bg-blue-50 padding">
     <Reviews/>
     </section>
-    <section className="bg-gray-300 padding-x sm:py-32  py-16 w-full">
-      <Subscribers/>
+    <section className=" padding-x sm:py-32  py-16 w-full">
+      <Subscribe/>
     </section>
     <section className="padding-x  padding-t pb-8 bg-black">
       <Footer/>
