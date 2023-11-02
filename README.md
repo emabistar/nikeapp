@@ -2,7 +2,7 @@
 
 This project is a  clone Nike app built with react-vite, tailwinds and data.
 
-![alt text](https://github.com/emabistar/flask_website/blob/main/nikeapp.png?raw=true)
+![alt text](https://github.com/emabistar/nikeapp/blob/main/nikeapp.png?raw=true)
 
 Currently, two official plugins are available:
 
